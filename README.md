@@ -17,12 +17,3 @@ The following designs and writings have served as inspiration:
 
 Personal Notes
 --------------
-
-Reminder to self, regarding Bluetooth profiles on boards with five
-such profiles; here's which devices to link to each profile:
-
-1. Desktop PC
-2. iPad
-3. Work MacBook
-4. Linux Laptop
-5. ???
